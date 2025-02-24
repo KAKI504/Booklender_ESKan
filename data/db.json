@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Война и мир",
+      "author": "Лев Толстой",
+      "image": "/images/book1.jpg",
+      "status": "available",
+      "isBorrowed": false
+    },
+    {
+      "id": "2",
+      "title": "Преступление и наказание",
+      "author": "Федор Достоевский",
+      "image": "/images/book2.jpg",
+      "status": "available",
+      "isBorrowed": false
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Иван Иванов",
+      "email": "ivan@mail.com",
+      "currentBooks": [],
+      "borrowHistory": []
+    },
+    {
+      "id": "2",
+      "name": "Петр Петров",
+      "email": "petr@mail.com",
+      "currentBooks": [],
+      "borrowHistory": []
+    }
+  ]
+}
